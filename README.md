@@ -2,6 +2,8 @@
 Shows figures for my June 2023 progress report. Attached is also the .prm files to create the associated figures.
 
 # Parameter files
+**2D_Continental_Extension** - A 2D continental extension model that uses the GMG solver as well as particles. Used to create figure 2.
+**3D_Periodic_Boundaries** - A 3D continental extension model that uses periodic boundary conditions on the front and back boundary. Used to create figure 3.
 
 # Figures
 
