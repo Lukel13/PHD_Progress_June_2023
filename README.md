@@ -18,7 +18,7 @@ Shows figures for my June 2023 progress report. Attached is also the .prm files 
 **Figure 3.** A 3D extensional model that uses periodic boundaries on the front and back. A spreading rate of 1 cm/yr is applied to the left and right boundaries with the model being extended to the southwest-northeast. Dark blue represents the upper curst, light blue layer represents lower crust and the red represents the mantle.
 
 ![Fig 4  3D function extension](https://github.com/Lukel13/PHD_Progress_June_2023/assets/95885918/a3131f79-771d-41a1-ac34-0e3c7412ce4b)
-**Figure 4.** A 3D extensional model that uses function boundaries on the front and back. A spreading rate of 1 cm/yr is applied to the left and right boundaries with the model being extended to the northwest-southeast. Dark blue represents the upper curst, light blue represents the lower crust and red represents the mantle. Only a small area of the model is visualied to mitigate edge effects.
+**Figure 4.** A 3D extensional model that uses function boundaries on the front and back. A spreading rate of 0.5 cm/yr is applied to the left and right boundaries with the model being extended to the northwest-southeast. Dark blue represents the upper curst, light blue represents the lower crust and red represents the mantle. Only a small area of the model is visualied to mitigate edge effects.
 
 ![Simulating Continental Rifting and Oceanic Basin Formation](https://github.com/Lukel13/PHD_Progress_June_2023/assets/95885918/1af7bc7c-da4a-4427-ba0b-c4d0a7b1f4ef)
 **Figure 5.** Image submitted to the University of Derby’s 2023 Images of Research Photography Competition demonstrating how oceanic basins and transform faults develop.
