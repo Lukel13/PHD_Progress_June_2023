@@ -2,12 +2,12 @@
 Shows figures for my June 2023 progress report. Attached is also the .prm files to create the associated figures.
 
 # Parameter files
-**2D_Continental_Extension** - A 2D continental extension model that uses the GMG solver as well as particles. Used to create figure 2.
-**3D_Periodic_Boundaries** - A 3D continental extension model that uses periodic boundary conditions on the front and back boundary. Used to create figure 3.
+- **2D_Continental_Extension** - A 2D continental extension model that uses the GMG solver as well as particles. Used to create figure 2.
+- **3D_Periodic_Boundaries** - A 3D continental extension model that uses periodic boundary conditions on the front and back boundary. Used to create figure 3.
 
 # Figures
 
-![Fig 1  Gantt Chart Year 2 updated](https://github.com/Lukel13/PHD_Progress_June_2023/assets/95885918/e665f51c-5e55-4149-8d0c-0689dfd36a3a)
+![Fig 1  Gantt Chart Year 2 updated](https://github.com/Lukel13/PHD_Progress_June_2023/assets/95885918/544c6a8e-2dfb-44dc-ac6d-80415f8f5928)
 **Figure 1.** A gantt chart designed in early April 2023 outlinining my plans during the second year of my PhD. A grey bar seperates each month with the gantt chart starting in April and ending at the end of December. Yellow bars show periods of background reading, light green bars show periods of testing and learning how to use software, light blue bars show periods where my final models are running, orange bars show trips, dark blue bars represent times I'm giving lectures and red bars represent university deadlines. 
 
 ![Fig 2  2D extension](https://github.com/Lukel13/PHD_Progress_June_2023/assets/95885918/b285495f-ce99-41ae-9e79-ea9fd27c9e6e)
